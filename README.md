@@ -62,7 +62,7 @@ python3 src\trainCode.py
 
 3. 修改金鑰後，執行查詢範例程式 `src\ptx_info.py`
 
-    ```python3=
+    ```python3
     import requests
     from pprint import pprint
     import json
